@@ -93,6 +93,11 @@ npm run dev
 [点击进入](doc/java_book.docx)
 
 
+### 视频讲解
+
+[https://youtu.be/MFXnIQMxh1o?si=5NyjZeTTEs8GaUTt](https://youtu.be/MFXnIQMxh1o?si=5NyjZeTTEs8GaUTt)
+
+
 ### 付费咨询
 
 微信：lengqin1024
