@@ -11,6 +11,10 @@
 用户名：admin123
 密码：admin123
 
+### 视频讲解
+
+[https://youtu.be/MFXnIQMxh1o?si=5NyjZeTTEs8GaUTt](https://youtu.be/MFXnIQMxh1o?si=5NyjZeTTEs8GaUTt)
+
 ### 功能介绍
 
 平台采用B/S结构，后端采用主流的Springboot框架进行开发，前端采用主流的Vue.js进行开发。
