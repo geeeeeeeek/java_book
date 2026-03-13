@@ -2,11 +2,12 @@
 > 学习过程中，遇到问题可以咨询作者：lengqin1024（微信）
 
 
-#### 部署步骤
+#### 运行步骤
 
-1. 修改constants.ts中的BASE_URL
-2. vite build
-3. 将dist部署到nginx
+1. 第一步，安装依赖： npm install
+2. 第二步，运行：npm run dev
+
+然后打开浏览器访问即可。
 
 
 #### 配置解释
