@@ -89,5 +89,5 @@ npm run dev
 
 ### 付费咨询
 
-![微信](https://github.com/geeeeeeeek/java_book/blob/master/doc/qr-wechat.png?raw=true)
+![微信](https://github.com/geeeeeeeek/java_book/blob/master/doc/qr-wechat.png?raw=true =300x)
 
