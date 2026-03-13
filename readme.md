@@ -75,18 +75,7 @@ npm run dev
 5. 在浏览器输入: http://localhost:3000 即可预览
 
 
-### 界面预览
-
-首页
-
-![](https://raw.githubusercontent.com/geeeeeeeek/java_book/master/server/upload/image/a.png)
-
-
-后台页面
-
-![](https://raw.githubusercontent.com/geeeeeeeek/java_book/master/server/upload/image/b.png)
-
-
+ 
 
 
 ### 参考论文
@@ -100,5 +89,5 @@ npm run dev
 
 ### 付费咨询
 
-微信：lengqin1024
+![微信](https://github.com/geeeeeeeek/java_book/blob/master/doc/qr-wechat.png?raw=true)
 
