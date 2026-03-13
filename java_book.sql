@@ -1,5 +1,5 @@
 /*
- Navicat Premium Data Transfer
+ Navicat Premium Data Transfer 需要安装mysql 5.7以上
 
  Source Server         : localhost连接
  Source Server Type    : MySQL
@@ -10,8 +10,7 @@
  Target Server Type    : MySQL
  Target Server Version : 50737
  File Encoding         : 65001
-
- Date: 26/05/2023 21:57:56
+ 
 */
 
 SET NAMES utf8mb4;
@@ -149,7 +148,6 @@ CREATE TABLE `b_comment`  (
   `content` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `comment_time` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
   `like_count` int(11) NOT NULL DEFAULT 0,
-  `user_id` bigint(20) NULL DEFAULT NULL,
   `thing_id` bigint(20) NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE,
   INDEX `b_comment_user_id_46f0670f_fk_b_user_id`(`user_id`) USING BTREE,
@@ -552,3 +550,4 @@ INSERT INTO `b_user` VALUES (11, 'fff', '714a328c25aafbd7deb6fa9b187bbca5', '1',
 INSERT INTO `b_user` VALUES (12, 'ccc', '282d3c6356528d963e7663f510d69cf8', '1', '0', NULL, NULL, NULL, NULL, NULL, NULL, '1685091081880', 10, NULL, 0, '282d3c6356528d963e7663f510d69cf8');
 
 SET FOREIGN_KEY_CHECKS = 1;
+
